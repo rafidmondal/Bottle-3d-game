@@ -1,2 +1,2 @@
 # Bottle-3d-game
-Game gitlab er GitHub to .... 
+Game
